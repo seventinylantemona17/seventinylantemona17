@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there I'm Seventiny
++
+## About Me:
+- Nama               : Seventiny Novrianingsih Lantemona
+- Alamat             : Kampung Tawoali
+- Tempat, Tgl Lahir  : Tawoali, 17 November 2003
+- Jenis Kelamin      : Perempuan
+- Status             : Lajang
+- Email              : lseventiny@gmail.com
+- Nomor Telepon      : 085314******
 
-<!--
-**seventinylantemona17/seventinylantemona17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+## 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu "2021-Sekarang"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. [SMKN 1 Tahuna] | TKJ | Tahuna "2018-2021"
+
+<br />
+<br />
